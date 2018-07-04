@@ -31,4 +31,4 @@ If you have an idea you'd like to pitch to our group, a great place to get the d
   
 ## Looking to start helping?
 
-WIP 
+Check out the "Code for Tulsa" section of the [Techlahoma Help Wanted board](https://help-wanted.techlahoma.org/)

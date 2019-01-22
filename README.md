@@ -31,4 +31,5 @@ If you have an idea you'd like to pitch to our group, a great place to get the d
   
 ## Looking to start helping?
 
+Check out the list of [projects](https://github.com/codefortulsa/welcome/blob/master/projects.md) that we are working on. If any spark your interest, reach out to the tech lead or product lead for that project.
 Check out the "Code for Tulsa" section of the [Techlahoma Help Wanted board](https://help-wanted.techlahoma.org/)

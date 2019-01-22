@@ -8,12 +8,12 @@ Introduction to Code for Tulsa
 2. Join [Slack](https://slack.techlahoma.org)
 * Slack is an online meeting space. Learn more [here](https://www.slack.com)!
 
-3. Join the [Code for Tulsa Meetup](https://www.meetup.com/Code-for-Tulsa/) and join us at meetings
+3. Join the [Code for Tulsa Meetup](https://www.meetup.com/Tulsa-Web-Devs/events/) and join us at meetings
 
 * **How Hack Nights Work** *First Tuesday of every month*
 Hack nights are an informal event where members of the community can come to hack around and collaborate on any interesting projects. Check in at the front desk and we'll have people here to help you get started. 
 
-* **How Status Reports Work** *Third Monday of every month*
+* **How Code for Tulsa Meetups Work** *Third Monday of every month*
 
 During [Tulsa Web Devs](http://tulsawebdevs.org/) meetings we break out into a sub-group where Code for Tulsa members currently involved in projects, or looking to start projects, collaborate and catch up.
 

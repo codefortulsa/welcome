@@ -1,9 +1,5 @@
 # Criminal Justice
 ## Courtbot
-* Product Lead: ?
-* Tech Lead: Matt Williams
-* Ash Lux
-* Diana Varnes
 * Tech:
   * node.js, twilio, Docker + Heroku
 * Needs:
@@ -11,15 +7,19 @@
 	*	Documentation
 	*	Docker (& node.js)
 	*	Marketing & Promotion
+* Product Lead: ?
+* Tech Lead: Matt Williams
+* Ash Lux
+* Diana Varnes
 ## Fines & Fees
-*	Product Lead: James Wagner, City of Tulsa
-*	Tech Lead: Philip Kin
-*	Brittany Berwanger
 *	Tech:
   *	Google Sheets, twilio
 *	Needs:
 	*	To go on GitHub
 	*	Someone to implement for Broken Arrow
+*	Product Lead: James Wagner, City of Tulsa
+*	Tech Lead: Philip Kin
+*	Brittany Berwanger
 ## Clear My Record
 *	Tech:
 	*	python (intake), Ruby (auto clear)
@@ -43,7 +43,6 @@
 *	Lesley Norton
 ## SNAP Screener
 *	Product Lead: Richard Comeau, Hunger Free OK
-*	Need to confirm or get Richard to assign someone else?
 *	Tech Lead: ?
 
 # Others
@@ -72,7 +71,8 @@
 *       John Dungan
 *       Julia Layne
 ## Open Budget
-*	Product Lead: Nathan Pickard, City of Tulsa
-*	Tech Lead: John Dungan, Code for Tulsa
 *       Tech:
   *       D3.js
+*	Product Lead: Nathan Pickard, City of Tulsa
+*	Tech Lead: John Dungan, Code for Tulsa
+*       Lora Gambino

@@ -68,6 +68,8 @@
 ## Voting is Power
 *	Product Lead: Shailaja Marion, League of Women Voters
 *	Tech Lead: ?
+*       John Dungan
+*       Julia Layne
 ## Open Budget
 *	Product Lead: Nathan Pickard, City of Tulsa
 *	Tech Lead: John Dungan, Code for Tulsa

@@ -71,3 +71,5 @@
 ## Open Budget
 *	Product Lead: Nathan Pickard, City of Tulsa
 *	Tech Lead: John Dungan, Code for Tulsa
+*       Tech:
+  *       D3.js

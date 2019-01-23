@@ -60,7 +60,7 @@
 *	Tech Lead: ?
 ## Citygram 
 *	Product Lead: ?
-*	Tech Lead: ? Needs basic Ruby ability 
+*	Tech Lead: ? Needs basic Ruby skills (or at least some willingness to learn some simple Ruby)
 ## Greenwood Resurrection
 *	Product Lead: Carlos Moreno, Code for Tulsa
 *	Tech Lead: ?
@@ -68,11 +68,11 @@
 ## Voting is Power
 *	Product Lead: Shailaja Marion, League of Women Voters
 *	Tech Lead: ?
-*       John Dungan
-*       Julia Layne
+*	John Dungan
+*	Julia Layne
 ## Open Budget
-*       Tech:
-  *       D3.js
+*	Tech:
+  *	D3.js
 *	Product Lead: Nathan Pickard, City of Tulsa
 *	Tech Lead: John Dungan, Code for Tulsa
-*       Lora Gambino
+*	Lora Gambino

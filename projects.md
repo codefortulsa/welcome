@@ -15,9 +15,9 @@
 *	Tech:
   *	Google Sheets, twilio
 *	Needs:
-	*	To go on GitHub
-	*	Someone to implement for Broken Arrow
-*	Product Lead: James Wagner, City of Tulsa
+	*	Upload project to GitHub
+	*	Someone to implement for Broken Arrow (possible to add court reminders as well as fines / fees reminders?)
+*	Product Lead: James Wagner, City of Tulsa. Jennifer Hooks, City of Broken Arrow.
 *	Tech Lead: Philip Kin
 *	Brittany Berwanger
 ## Clear My Record

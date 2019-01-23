@@ -30,3 +30,6 @@ If you have an idea you'd like to pitch to our group, a great place to get the d
 
   * Check out the list of [projects](https://github.com/codefortulsa/welcome/blob/master/projects.md) that we are working on. If any spark your interest, reach out to the tech lead or product lead for that project.
   * Check out the "committee/Civic Tech" section of the [Techlahoma Help Wanted board](https://help-wanted.techlahoma.org/)
+  * If you're not a coder, but are still interested in helping out, there are a couple areas we could really use some help on:
+    * Adding to our blog/website: https://codefortulsa.org/ - articles about projects we're working on, press we've received locally and nationally, updates on meetings and how to get involved, etc.    
+    * Outreach to organizations we would want to meet with / present to. You don't need to make the presentations (but if you want to, we can supply you with a slide deck and talking points), but we would love for someone to help keep in touch with community organizations such as Workforce Tulsa, Coding Dojo, RailsBridge, DjangoGirls, 36°N, the Tulsa Library, etc. about opportunities where we could present about who we are, what we do, etc.

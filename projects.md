@@ -35,9 +35,9 @@
 # Food Security
 ## Summer Meals
 *	Tech:
-  *	node.js, Leafjs, Angular
+	*	node.js, Leafjs, Angular
 *	Needs:
-  *	Updating the data / “Spring Cleaning”
+  *	Updating the data / “spring cleaning”
 *	Product Lead: Richard Comeau, Hunger Free OK
 *	Tech Lead: Victor Agbasi
 *	Lesley Norton
@@ -72,7 +72,7 @@
 *	Julia Layne
 ## Open Budget
 *	Tech:
-  *	D3.js
+	*	D3.js
 *	Product Lead: Nathan Pickard, City of Tulsa
 *	Tech Lead: John Dungan, Code for Tulsa
 *	Lora Gambino

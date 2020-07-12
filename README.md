@@ -2,6 +2,7 @@
 Introduction to Code for Tulsa
 
 ## Getting Involved
+NOTE: For the time being, all meetups and hack nights are being held virtually. For more information about our online events, please visit the [Tulsa WebDevs](https://www.meetup.com/Tulsa-Web-Devs/events/) Meetup page.
 
 1. Join the [Google Groups Mailing List](https://groups.google.com/forum/#!forum/code-for-tulsa)
 

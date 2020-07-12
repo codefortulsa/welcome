@@ -28,7 +28,7 @@ If you have an idea you'd like to pitch to our group, a great place to get the d
   
 ## Looking to start helping?
 
-  * Check out the list of [projects](https://github.com/codefortulsa/welcome/blob/master/projects.md) that we are working on. If any spark your interest, reach out to the tech lead or product lead for that project.
+  * Check out the list of [projects](https://github.com/orgs/codefortulsa/projects) that we are working on. If any spark your interest, reach out to the tech lead or product lead for that project.
   * Check out the "committee/Civic Tech" section of the [Techlahoma Help Wanted board](https://help-wanted.techlahoma.org/)
   * If you're not a coder, but are still interested in helping out, there are a couple areas we could really use some help on:
     * Adding to our blog/website: https://codefortulsa.org/ - articles about projects we're working on, press we've received locally and nationally, updates on meetings and how to get involved, etc.    
